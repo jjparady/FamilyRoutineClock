@@ -126,6 +126,11 @@ svg g text textPath tspan {
 	text-align: center;
 }
 
+.sprite {
+	width: 200px;
+	height: 200px;
+}
+
 .hours > .hour-box {
 	font-family: "Segoe UI", Arial, Helvetica, sans-serif;
 	font-size: 3vh;
@@ -212,8 +217,13 @@ svg g text textPath tspan {
 		width: 100%;
 	}
 
+.sprite {
+	width: 100px;
+	height: 100px;
+}
+
 	.border {
-		border: 6vw solid #303030;
+		border: 6vw solid #ffffff;
 	}
 
 	.border2 {
@@ -240,7 +250,7 @@ svg g text textPath tspan {
 		top: 13.7vw;
 		border-left: 1.5vw solid transparent;
 		border-right: 1.5vw solid transparent;
-		border-bottom: 36.3vw solid #d3d3d3;
+		border-bottom: 36.3vw solid #000000;
 	}
 
 	.digital {
