@@ -290,7 +290,7 @@ function setDigital() {
 		hour >= 12 ? "PM" : "AM"
 	}</span>
 		</div>
- 		<div class="task" style="color:${taskColor}">${currentTask} <br> <img src="${currentTask}.png" style="width:150px;height:150px;"></div> 
+ 		<div class="task" style="color:${taskColor}">${currentTask} <br> <img src="${currentTask}.png" style="width:200px;height:200px;"></div> 
 	`; // TODO
 	digital.appendChild(time);
 
