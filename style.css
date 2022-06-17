@@ -61,7 +61,7 @@ svg g path {
 
 svg g text textPath {
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-	font-size: 30%;
+	font-size: 25%;
 	font-weight: 500;
 	vertical-align: 6px;
 	/* text-shadow: -3px 0px 5px black; */
