@@ -4,17 +4,29 @@
 // Data
 
 const routine = {
-	sundays: [
-		["Church", "13:30", "15:30", "turquoise"],
+	sundays: [["Breakfast", "7:00", "7:30", "red"],
+		["Tidy", "7:30", "8:30", "green"],
+		["Play Outside", "8:30", "9:30", "orange"],
+		["Penn Bed", "9:30", "10:00", "#f148d6"],
+		["School", "10:00", "11:30", "teal"],
+		["Lunch", "11:30", "12:30", "red"],
+		["Get Ready","12:30","13:30","green"],
+		["Church", "13:30", "15:30", "grey"],
+		["Independent Play", "15:30", "17:00", "blue"],
+		["Dinner", "17:00", "18:00", "red"],
+		["Family Play", "18:00", "18:30", "blue"],
+		["Penn Bed", "18:30", "19:00", "#f148d6"],
+		["Pete Play", "19:00", "19:30", "blue"],
+		["Pete Bed", "19:30", "20:00", "#154c79"],
+		["No Kids Time", "20:00", "22:30", "purple"],
+		["Sleep", "22:30", "07:00", "black"]
 	],
 	mondays: [],
 	tuesdays: [],
 	wednesdays: [],
 	thursdays: [],
 	fridays: [],
-	saturdays: [],
-	everyday: [],
-	weekends: [	["Breakfast", "7:00", "7:30", "red"],
+	saturdays: [["Breakfast", "7:00", "7:30", "red"],
 		["Tidy", "7:30", "8:30", "green"],
 		["Play Outside", "8:30", "9:30", "orange"],
 		["Penn Bed", "9:30", "10:00", "#f148d6"],
@@ -31,6 +43,8 @@ const routine = {
 		["No Kids Time", "20:00", "22:30", "purple"],
 		["Sleep", "22:30", "07:00", "black"]
 		],
+	everyday: [],
+	weekends: [],
 	weekdays: [
 		["Breakfast", "7:00", "7:30", "red"],
 		["Tidy", "7:30", "8:30", "green"],
