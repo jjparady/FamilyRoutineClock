@@ -217,13 +217,13 @@ svg g text textPath tspan {
 		width: 100%;
 	}
 
-.sprite {
+  .sprite {
 	width: 100px;
 	height: 100px;
-}
+  }
 
 	.border {
-		border: 6vw solid #ffffff;
+		border: 6vw solid #FFCC99;
 	}
 
 	.border2 {
