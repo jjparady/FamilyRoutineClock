@@ -640,6 +640,7 @@ svg g text textPath tspan {
 	#myCalendar {
 	width: 150px;
 	transform: scaleY(0.7);
+	visibility: hidden;
   }
   
     .sprite {
