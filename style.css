@@ -223,7 +223,7 @@ svg g text textPath tspan {
   }
 
 	.border {
-		border: 6vw solid #FFCC99;
+		border: 6vw solid #FFFFFF;
 	}
 
 	.border2 {
@@ -630,3 +630,8 @@ svg g text textPath tspan {
 .vanilla-calendar-date:first-child {
 	border-left: 1px solid #4c4c4c !important;
 }
+
+@media (max-height: 500px) { 	.border {
+	  border: 6vw solid #FFFFFF;
+	} }
+
