@@ -629,22 +629,23 @@ svg g text textPath tspan {
 }
 
 
-@media (max-height: 500px) { 	.border {
+@media (max-height: 500px) {
+  	:root {
+  	  	--clock-size: 65%;
+	}
+  
+  .border {
 	  border: 6vw solid #FFCC99;
 	} 
   
-  	:root {
-  	  	--clock-size: 90%;
-	}
+  
 	
 	#myCalendar {
-	width: 150px;
-	transform: scaleY(0.7);
 	visibility: hidden;
   }
   
     .sprite {
-	width: 70px;
-	height: 70px;
+	width: 80px;
+	height: 80px;
   }
 }
