@@ -649,3 +649,7 @@ svg g text textPath tspan {
 	height: 80px;
   }
 }
+
+.vid {
+  visibility: hidden;
+}
