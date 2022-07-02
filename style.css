@@ -632,6 +632,6 @@ svg g text textPath tspan {
 }
 
 @media (max-height: 500px) { 	.border {
-	  border: 6vw solid #FFFFFF;
+	  border: 6vw solid #FFCC99;
 	} }
 
