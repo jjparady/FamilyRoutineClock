@@ -43,7 +43,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	box-sizing: border-box;
-	border: 6vh solid #ffffff;
+	border: 5vh solid #ffffff;
 }
 
 /* --------------- SVG --------------- */
@@ -630,12 +630,9 @@ svg g text textPath tspan {
 
 
 @media (max-height: 500px) {
-  	:root {
-  	  	--clock-size: 65%;
-	}
   
   .border {
-	  border: 6vw solid #FFCC99;
+	  border: solid #FFCC99;
 	} 
   
   
