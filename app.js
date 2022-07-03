@@ -167,7 +167,7 @@ function polarToCartesian(centerX, centerY, radius, angleInDegrees) {
 const arcProp = {
 	cx: 200, // <-- center x
 	cy: 200, // <-- center y
-	radius: 180 // <-- circle radius
+	radius: 130 // <-- circle radius
 };
 
 // arc = {

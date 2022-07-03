@@ -43,7 +43,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	box-sizing: border-box;
-	border: 6vh solid #ffffff;
+	border: 6vh solid #FFCC99;
 }
 
 /* --------------- SVG --------------- */
@@ -55,7 +55,7 @@ svg {
 
 svg g path {
 	fill: none;
-	stroke-width: 5px;
+	stroke-width: 10px;
 	fill-rule: evenodd;
 }
 
